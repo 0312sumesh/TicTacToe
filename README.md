@@ -12,3 +12,6 @@ How to Play the Game :
 =>Now, both O and X play alternatively until any one of the two wins.
 =>Winning criteria: Whenever any of the two players has fully filled one row/ column/ diagonal with his symbol (X/ O), he wins and the game ends.
 =>If neither of the two players wins, the game is said to have ended in a draw.
+
+
+Note: If you have encountered with Exceptions. No problem re-run the program for the output  
